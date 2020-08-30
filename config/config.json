@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "DB-USER-NAME",
+    "password": null,
+    "database": "SimpleSocialNetwork",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "DB-USER-NAME",
+    "password": null,
+    "database": "SimpleSocialNetwork",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "DB-USER-NAME",
+    "password": null,
+    "database": "SimpleSocialNetwork",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
